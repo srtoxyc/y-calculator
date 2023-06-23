@@ -4,4 +4,4 @@ The purpose of this project is to develop a TODO app that runs in a browser and 
 
 For this project, Vite, ReactJS, SWC, HTML, CSS and ??? will be used.
 
-<pre><b>ToxYc 2023</b></pre>
+<pre style="display: flex; justify-content: center;"><b>ToxYc 2023</b></pre>
