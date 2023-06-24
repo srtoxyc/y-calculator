@@ -1,7 +1,12 @@
-# TodoMVC App
+![ycalc-logo](./src/assets/gy-calc.png)
 
-The purpose of this project is to develop a TODO app that runs in a browser and follows the MVC (Model-View-Controller) design pattern.
+# YCalc
+***
 
-For this project, Vite, ReactJS, SWC, HTML, CSS and ??? will be used.
+YCalc is a smooth, powerful and intuitive calculator developed by [ToxYc](https://github.com/srtoxyc).
+
+It has been developed using [Vite](https://vitejs.dev), [ReactJS](https://react.dev) and [SWC](https://swc.rs), apart from the [MathJS](https://mathjs.org) libraries.
+
+<br>
 
 <pre style="display: flex; justify-content: center;"><b>ToxYc 2023</b></pre>
