@@ -1,0 +1,24 @@
+.botonera {
+    height: 80%;
+    width: 100%;
+
+    grid-gap: 10px;
+
+    display: grid;
+    grid-template-columns: repeat(4, 20%);
+
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+*[fill="half-wide"] {
+    grid-row: 5;
+    grid-column: span 2;
+}
+
+*[fill="full-wide"] {
+    grid-row: 6;
+    grid-column: span 4;
+}
