@@ -4,6 +4,7 @@
   --main-color: #646cff;
   --main-color-low: #646cffdd;
   --main-color-high: #888eff;
+  --main-color-message-box: #646cff2c;
 
   --normal-font: #ffffffde;
 
@@ -33,6 +34,16 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+    justify-content: center;
+    align-items: center;
+    align-content: center;
 }
 
 a {
