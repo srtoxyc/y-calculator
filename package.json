@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "predeploy" : "npm run build",
-    "deploy" : "y-calculator -d build",
+    "deploy" : "gh-pages -d build",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -30,5 +30,6 @@
     "eslint-plugin-react-refresh": "^0.3.4",
     "gh-pages": "^5.0.0",
     "vite": "^4.3.9"
-  }
+  },
+  "homepage": "http://srtoxyc.github.io/y-calculator"
 }
