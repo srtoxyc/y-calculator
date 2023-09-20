@@ -1,4 +1,7 @@
-@import url(https://fonts.google.com/specimen/Lexend);
+@font-face { 
+  font-family: 'Lexend';
+  src: url(https://fonts.google.com/specimen/Lexend);
+}
 
 :root {
   --main-color: #646cff;
